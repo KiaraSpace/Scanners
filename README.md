@@ -29,7 +29,7 @@
 3. Extraer contenidos de la carpeta descargada en la carpeta `image_test`.
 4. Ejecutar el script principal `main.py`.
 
-   En este script se obtiene el status de las firmas por detección de objetos, usando tiny-yolov4, sobre las imágenes "crudas" de `image_test`; y se obtienen las fechas por medio de reconocimiento de texto usando el modelo PaddleOCR. Una vez recolectada toda esta información, los datos son escritos en un archivo de texto `.txt`, el output deseado, según el formato indicado por las bases. Los pesos del modelo de detección y los archivos de configuración respectivos se encuentran en la carpeta `model`.
+   En este script se obtiene el status de las firmas por detección de objetos, usando tiny-yolov4, sobre las imágenes "crudas" de `image_test`; y se obtienen las fechas por medio de reconocimiento de texto usando el modelo PaddleOCR. Una vez recolectada toda esta información, los datos son escritos en un archivo de texto `output.txt`, el output deseado, según el formato indicado por las bases. Los pesos del modelo de detección y los archivos de configuración respectivos se encuentran en la carpeta `model`.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Referencias
 1. Modelo de reconocimiento de texto: [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/doc/doc_en/installation_en.md).
