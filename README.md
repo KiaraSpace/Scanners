@@ -3,6 +3,7 @@
 ## Información del grupo
 1. Nombre del grupo: **Scanners**
 2. Nombre de los integrantes:
+
     * Dari Joshua Acuña Quiñones
     * Kiara Micaela Rodriguez Bautista
     * Jürgen Anders Guerra Ramos
