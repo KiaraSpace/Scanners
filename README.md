@@ -23,8 +23,7 @@
    
 2. Importar la carpeta `cropped` en este [notebook](https://colab.research.google.com/drive/1wnR7jYNdVnemmToW6p37uRM7Xu3r31Z4?usp=sharing) y ejecutar el código. Descargar la carpeta que se genere después de la ejecución del código.
 
-   El notebook tiene la función de mejorar la calidad de las imágenes de entrada, esto es necesario dado a que las documentos poseen una calidad baja y esto complica el análisis y    extración de datos de los mismos.
-   En el notebook, se implementan 3 modelos preentrenados que se usarán en el proceso de mejora de la calidad de las imágenes de entrada que en conjunto con el código completo nos    darán como output las imágenes con una mejora de calidad significativa.
+   El notebook tiene la función de mejorar la calidad de las imágenes de entrada; esto es necesario dado a que las documentos poseen una calidad baja y esto complica el análisis y    extración de datos de los mismos. En el notebook se implementan tres modelos preentrenados que se usan en el proceso de mejora de la calidad de las imágenes de entrada que, en conjunto con el código completo, nos darán como output las imágenes de la carpeta `cropped` con una mejora de calidad significativa.
 
 3. Extraer contenidos de la carpeta descargada en la carpeta `image_test`.
 4. Ejecutar el script principal `main.py`.
