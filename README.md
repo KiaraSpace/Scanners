@@ -3,9 +3,9 @@
 ## Información del grupo
 1. Nombre del grupo: **Scanners**
 2. Nombre de los integrantes:
-    1. Dari Joshua Acuña Quiñones
-    2. Kiara Micaela Rodriguez Bautista
-    3. Jürgen Anders Guerra Ramos
+    * Dari Joshua Acuña Quiñones
+    * Kiara Micaela Rodriguez Bautista
+    * Jürgen Anders Guerra Ramos
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Instalación
 1. Instalar [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/doc/doc_en/installation_en.md).
